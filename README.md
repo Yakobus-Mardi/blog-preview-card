@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [GitHub](https://github.com/Yakobus-Mardi/blog-preview-card)
+- Live Site URL: [Preview](https://yakobus-mardi.github.io/blog-preview-card/)
 
 ## My process
 
@@ -45,4 +45,4 @@ Users should be able to:
 ## Author
 
 - Frontend Mentor - [@Yakobus-Mardi](https://www.frontendmentor.io/profile/Yakobus-Mardi)
-- Twitter - [@fincodewiz](https://twitter.com/fincodewiz)
+- X - [@fincodewiz](https://twitter.com/fincodewiz)
